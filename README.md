@@ -7,6 +7,9 @@
 
 Root(kök) belirleriz, root'dan küçük olanlar sola, büyük olanları sağa yazarız:
 Root değeri 3 olarak alıyorum:
+
+
+
                                                        3
                                                    /        \
                                                   1          7
