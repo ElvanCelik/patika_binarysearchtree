@@ -7,10 +7,10 @@
 
 Root(kök) belirleriz, root'dan küçük olanlar sola, büyük olanları sağa yazarız:
 Root değeri 3 olarak alıyorum:
-         3
-     /        \
-    1          7
-   /  \       /  \
-  0    2     5    8
-           /  \     \
-          4    6     9            
+           3
+       /        \
+      1          7
+     /  \       /  \
+    0    2     5    8
+             /  \     \
+            4    6     9            
